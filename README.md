@@ -7,3 +7,5 @@ Team Member
 - Yee Feng
 - Carmen Fang
 
+Link to [Progress Board](https://github.com/ct-product-challenge-2017/jcrew-brick-mortar/projects/1)
+
