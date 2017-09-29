@@ -28,9 +28,10 @@
 - Progress this week
   - [User Findings](https://docs.google.com/document/d/1Bl7DeKl-SrKuea8e06HaOWtRDu8C16iHer_SU2HNGTA/edit).
     - Key insights:
-      - something
-      - something
-      - something
+      - For adults when they purchase, it's more likely for a specific occasion so they often know vaguely what they want
+      - If both channels are present and easily accessible, people will have their own way of merging those two in a way that makes the most sense to them
+      - Need smoother and more transparent online payment system in terms of what type of errors occured in the transaction
+      - People prioritize convenience and quality
   - Brainstormed new directions and potentials to combine multi-channel shopping
     - A personalized/interactive web page for users + point system to encourage interaction + try it in store 
   - Obtained faculty advisor's input
