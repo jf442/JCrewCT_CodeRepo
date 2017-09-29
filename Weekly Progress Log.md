@@ -24,3 +24,30 @@
   - Starting from scratch, running low on time
   - Technology solutions might require high initial investments and more serious validations
 
+### Week 6 Research
+- Progress this week
+  - [User Findings](https://docs.google.com/document/d/1Bl7DeKl-SrKuea8e06HaOWtRDu8C16iHer_SU2HNGTA/edit).
+    - Key insights:
+      - something
+      - something
+      - something
+  - Brainstormed new directions and potentials to combine multi-channel shopping
+    - A personalized/interactive web page for users + point system to encourage interaction + try it in store 
+  - Obtained faculty advisor's input
+    - Use SVD to implement personalized feeds
+    - Need user transaction data --> need to ask Brian for help
+    - They supported the "why" behind our product  
+- Plan for next week
+  - Contact Brian for data to use to build the prototype
+  - Prepare for Crit
+  - Reflect on Crit
+  - Start laying out structure for prototype 
+  - More background research on personalized recommendation feed
+    - potential sources: Facebook, Netflix, Tinder, Amazon 
+- Key learnings and actions from your weekly retro
+  - Need to present our idea more properly to Brian to engage him
+  - Tech is not driving the product --> should not be a "solution looking for problem"
+- Risks
+  - If data is not available, need to simulate our own
+  - Might not have enough information/data on individuals to create a really personalized feeds/recommendations
+  - Negative connotation towards Tinder-like interactive web page 
