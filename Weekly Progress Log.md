@@ -52,3 +52,25 @@
   - If data is not available, need to simulate our own
   - Might not have enough information/data on individuals to create a really personalized feeds/recommendations
   - Negative connotation towards Tinder-like interactive web page 
+  
+### Week 7 Iterate
+- Progress this week
+  - [Crit 1 findings](https://docs.google.com/document/d/18_y-KxBQ_z8mMFFdmcd_GFZY78b00Xhd_r5VWHHqr2E/edit).
+    - Key insights:
+      - "intake survey" reference on MM. Lafleur
+      - Need to define the target user group more carefully
+      - Explore trial run could be interesting
+      - Confirmed why traffic in retail store is important for retail brands
+  - [New system architecture diagram](https://docs.google.com/document/d/14SQIJRrK4Qb_oRiNL8j1QylLe9Q86y1T0l_zUjLVlJw/edit).
+  - [Feature set and core product loop](https://docs.google.com/presentation/d/1OmZ1G8TfrQaRD2C8AvCQTnVGvm6XgRyBUhXFoUwU8Oo/edit#slide=id.g25a001c5ba_0_75).
+- Plan for next week
+  - Define detailed user group
+  - Conduct street interview/coffee-shop interview
+  - Prepare for Sprint II
+- Key learnings and actions from your weekly retro
+  - From crit's past experience: it's okay to start from scratch at anytime if you feel like the direction is not correct
+- Risks
+  - Not sure on data yet
+  - Our product is not a real product, but several additional services to enhance the overall experience
+  - Story too long and too fragmented 
+
