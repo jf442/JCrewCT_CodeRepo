@@ -74,3 +74,24 @@
   - Our product is not a real product, but several additional services to enhance the overall experience
   - Story too long and too fragmented 
 
+### Week 9 Elaborate
+- Progress this week
+  - [User Finding Log](https://docs.google.com/document/d/1wWE-j7Homer-LDsxku0t0KVc2QvIAEAuTuOzSl_VRnQ/edit).
+    - Key insights:
+      - need update
+      - need update
+      - need update
+  - [Company Advisor Feedback](https://docs.google.com/document/d/1iHaIM59hrmPUodE0Tm6H_dDI9Gsr21MzidLLj1YTXOM/edit).
+  - Move onto generating new ideas
+    - Ways to encourage new comments and reviews
+      - how to motivate people to do it
+      - what's the value of seeing more reviews
+- Plan for next week
+  - Iron out details for the "review/comment" idea
+  - Implementation plan
+  - Prepare for Crit II
+- Risks
+  - Starting from scratch and time is ticking 
+  - Investment cost on the technology of recording comments need further validation
+  - Not have a diverse enough user interview base to develop solid insights 
+
