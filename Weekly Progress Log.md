@@ -78,9 +78,9 @@
 - Progress this week
   - [User Finding Log](https://docs.google.com/document/d/1wWE-j7Homer-LDsxku0t0KVc2QvIAEAuTuOzSl_VRnQ/edit).
     - Key insights:
-      - need update
-      - need update
-      - need update
+      - People like recommendation systems in certain settings, but other times they like having the independence to browse on their own.
+      - Users put a lot of value in reviews, but rarely contribute themselves.
+      - Users will seek out feedback from others by other means if it is not readily provided.
   - [Company Advisor Feedback](https://docs.google.com/document/d/1iHaIM59hrmPUodE0Tm6H_dDI9Gsr21MzidLLj1YTXOM/edit).
   - Move onto generating new ideas
     - Ways to encourage new comments and reviews
