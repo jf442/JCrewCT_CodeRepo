@@ -2,10 +2,10 @@
 
 ### Quick Linkes
 - [week05 Standup](#week-5-standup).
-- [week06 Research]().
-- [week07 Iterate]().
-- [week09 Ilaborate]().
-- [week10 Design]().
+- [week06 Research](#week-6-research).
+- [week07 Iterate](#week-7-iterate).
+- [week09 Ilaborate](#week-9-ilaborate).
+- [week10 Design](#week-10-design).
 
 ### Week 5 Standup
 - Progress this week
