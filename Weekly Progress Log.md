@@ -1,11 +1,11 @@
 # Weekly Progress Log
 
 ### Quick Linkes
-[week05 Standup](###Week-5-Standup).
-[week06 Research]().
-[week07 Iterate]().
-[week09 Ilaborate]().
-[week10 Design]().
+- [week05 Standup](#week-5-standup).
+- [week06 Research]().
+- [week07 Iterate]().
+- [week09 Ilaborate]().
+- [week10 Design]().
 
 ### Week 5 Standup
 - Progress this week
