@@ -104,8 +104,7 @@
   - Validated this new idea with Leland --> really positive feedback
     - Recommended interviewing peopele shopping/observing behaviors in JCrew store to generate smart question pool
     - Recommended live video camera to scan item as opposed to laser scanner
-    
-  - [New System Diagram](https://drive.google.com/drive/u/0/folders/0B9ETzEoqK-Atd2pZcG9VWHBTMWc).
+  - [New System Diagram](https://drive.google.com/drive/u/0/folders/0B9ETzEoqK-Atd2pZcG9VWHBTMWc).
   - [Design 5E's]().
   - [Decks for tech talk]().
 - Plan for next week
