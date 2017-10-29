@@ -1,6 +1,6 @@
 # Weekly Progress Log
 
-[Week10 Design](.#Week-10-Design)
+[Week10 Design](#Week--10-Design)
 
 ### Week 5 Standup
 - Progress this week
