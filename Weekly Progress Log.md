@@ -1,4 +1,7 @@
 # Weekly Progress Log
+
+[Week10 Design](### Week 10 Design)
+
 ### Week 5 Standup
 - Progress this week
   - [commit graph](https://github.com/jf442/JCrewCT_CodeRepo/graphs/commit-activity).
