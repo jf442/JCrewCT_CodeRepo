@@ -74,7 +74,8 @@
   - Our product is not a real product, but several additional services to enhance the overall experience
   - Story too long and too fragmented 
 
-### Week 9 Elaborate
+  
+  ### Week 9 Elaborate
 - Progress this week
   - [User Finding Log](https://docs.google.com/document/d/1wWE-j7Homer-LDsxku0t0KVc2QvIAEAuTuOzSl_VRnQ/edit).
     - Key insights:
@@ -94,4 +95,31 @@
   - Starting from scratch and time is ticking 
   - Investment cost on the technology of recording comments need further validation
   - Not have a diverse enough user interview base to develop solid insights 
+
+
+### Week 10 Design
+- Progress this week
+  - Pivot on new idea: a comment app in the brick-and-mortar stores to populate more reviews on items for online shoppers to reference 
+  - Validated this new idea with Brian --> showed some initial interst
+  - Validated this new idea with Leland --> really positive feedback
+    - Recommended interviewing peopele shopping/observing behaviors in JCrew store to generate smart question pool
+    - Recommended live video camera to scan item as opposed to laser scanner
+  - [New System Diagram](https://drive.google.com/drive/u/0/folders/0B9ETzEoqK-Atd2pZcG9VWHBTMWc).
+  - [Design 5E's]().
+  - [Decks for tech talk]().
+- Plan for next week
+  - field study at J.Crew 
+  - Prep for Crit II
+  - Prep for Tech Talk
+  - Detail defining for comment app
+  - Skeleton Codes for comment app
+  - Review visualization design on J.Crew website 
+- Risks
+  - New efficient applications to send item informationt to designated fitting rooms
+    - Laser scanning too slow
+    - Video scanning too expensive
+    - Lack of other options?
+  - Value for the comment apps to J.Crew and other retailers not enough
+  - Value to the online customers not enough
+  - Hard to determine right reward amount and logic for in store commentors 
 
