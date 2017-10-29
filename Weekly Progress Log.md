@@ -83,7 +83,7 @@
   - Story too long and too fragmented 
 
   
-  ### Week 9 Elaborate
+### Week 9 Elaborate
 - Progress this week
   - [User Finding Log](https://docs.google.com/document/d/1wWE-j7Homer-LDsxku0t0KVc2QvIAEAuTuOzSl_VRnQ/edit).
     - Key insights:
