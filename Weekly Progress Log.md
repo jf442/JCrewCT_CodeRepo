@@ -1,6 +1,11 @@
 # Weekly Progress Log
 
-[Week10 Design](https://github.com/jf442/JCrewCT_CodeRepo/edit/master/Weekly%20Progress%20Log.mdL103).
+### Quick Linkes
+[week05 Standup](###Week-5-Standup).
+[week06 Research]().
+[week07 Iterate]().
+[week09 Ilaborate]().
+[week10 Design]().
 
 ### Week 5 Standup
 - Progress this week
