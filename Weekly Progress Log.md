@@ -138,7 +138,7 @@
   - Finalized scope of product for demo (focus on tops, specifically sweaters) 
   - Conducted more user validation in the form of a survey to understand how reviews affect purchasing decisions 
   - Completed Tech Talk and recieved feedback from peers and advisers on where to focus for Sprint 3 
- - Plan for next week  
+ - Plan for next week
   - Link front and back ends 
   - Complete user testing and validation with current version of product 
   - Craft final narrative for Sprint 3 
