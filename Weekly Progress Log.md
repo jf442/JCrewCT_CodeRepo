@@ -131,3 +131,18 @@
   - Value to the online customers not enough
   - Hard to determine right reward amount and logic for in store commentors 
 
+### Week 11 
+- Progress this week 
+  - Researched and began implementation for APIs (Natural Language Processing/Sentiment Analysis API and Speech to Text API from Google) 
+  - Created first iteration of front end 
+  - Finalized scope of product for demo (focus on tops, specifically sweaters) 
+  - Conducted more user validation in the form of a survey to understand how reviews affect purchasing decisions 
+  - Completed Tech Talk and recieved feedback from peers and advisers on where to focus for Sprint 3 
+ - Plan for next week 
+  - Link front and back ends 
+  - Complete user testing and validation with current version of product 
+  - Craft final narrative for Sprint 3 
+ - Risks 
+  - Linking all the moving parts will take some time and testing to work out completely 
+  - Building only for a small set of items, so we will have to consider how the product can scale 
+
