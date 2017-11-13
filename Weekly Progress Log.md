@@ -144,5 +144,5 @@
   - Craft final narrative for Sprint 3 
 - Risks 
   - Linking all the moving parts will take some time and testing to work out completely 
-  - Building only for a small set of items, so we will have to consider how the product can scale 
+  - Building only for a small set of items, so we will have to consider how the product can scale  
 
